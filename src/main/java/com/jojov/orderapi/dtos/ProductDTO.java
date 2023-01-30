@@ -7,7 +7,7 @@ import lombok.Setter;
 @Builder
 @Getter
 @Setter
-public class ProductDTO {
+public class ProductDTO { 
 
 	private Long id;
 	private String name;
